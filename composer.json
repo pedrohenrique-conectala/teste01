@@ -4,6 +4,12 @@
     "keywords": ["pedrohenrique", "conectala", "teste01"],
     "license": "MIT",
     "homepage": "https://conectala.com.br",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/pedrohenrique-conectala/teste01"
+        }
+    ],
     "support": {
         "issues": "https://github.com/pedrohenrique-conectala/teste01/issues",
         "source": "https://github.com/pedrohenrique-conectala/teste01"
