@@ -1,0 +1,22 @@
+{
+    "name": "pedrohenrique-conectala/teste01",
+    "description": "The Test.",
+    "keywords": ["pedrohenrique", "conectala", "teste01"],
+    "license": "MIT",
+    "homepage": "https://conectala.com.br",
+    "support": {
+        "issues": "https://github.com/pedrohenrique-conectala/teste01/issues",
+        "source": "https://github.com/pedrohenrique-conectala/teste01"
+    },
+    "authors": [
+        {
+            "name": "Pedro Henrique Ambrosio",
+            "email": "pedrohenrique@conectala.com.br"
+        }
+    ],
+    "require": {
+        "php": "^8.0.2"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
